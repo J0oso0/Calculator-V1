@@ -1,3 +1,4 @@
+# Calculator inspired by Poco x3 pro Calculator App
 from tkinter import *
 import tkinter
 import math
